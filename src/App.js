@@ -77,7 +77,7 @@ function App() {
         <Route path="/about" element={<About/>}/>
         <Route path="/cart" element={<Cart/>}/>
         <Route path="/paymentsuccess" element={<Paymentsuccess/>}/>
-        
+        {/* <Route path="/confirmorder" element={<ConfirmOrder/>}/> */}
         <Route path="/menu" element={<Menu/>}/>
 
         <Route
@@ -94,7 +94,6 @@ function App() {
         <Route path="/myorders" element={<Myorders/>}/>
         <Route path="/me" element={<Profile/>}/>
         <Route path="/order/:id" element={<OrderDetails/>}/>
-        <Route path="/confirmorder" element={<ConfirmOrder/>}/>
         </Route>
 
 
