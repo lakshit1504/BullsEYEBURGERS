@@ -33,7 +33,7 @@ import Paymentsuccess from "./components/cart/Paymentsuccess.jsx";
 import Login from "./components/login/Login";
 import Profile from "./components/profile/Profile";
 import Myorders from "./components/myorders/Myorders";
-import ConfirmOrder from "./components/cart/ConfirmOrder"
+// import ConfirmOrder from "./components/cart/ConfirmOrder"
 import OrderDetails from "./components/myorders/OrderDetails";
 import Dashboard from "./components/admin/Dashboard";
 import Users from "./components/admin/Users";
